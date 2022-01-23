@@ -1,0 +1,35 @@
+body{
+    background-color: whitesmoke;
+}
+
+#note{
+font-family: 'Great Vibes', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+
+font-size: 25px;
+}
+
+#results_label{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#results_confidence{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+    
+}
+
+button{
+    border: black;
+    border-width: 5px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+bottom: 0;
+}
